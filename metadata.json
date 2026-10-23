@@ -1,0 +1,6 @@
+{
+  "name": "Bảng Tính Lãi Suất Vay Ngân Hàng",
+  "description": "Công cụ tính toán lãi suất vay và lịch trả nợ dư nợ giảm dần, trả góp đều thông minh, chính xác.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
